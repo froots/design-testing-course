@@ -4,12 +4,15 @@
   "description": "Example project for the design testing email course on tinnedfruit.com",
   "private": true,
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "author": {
     "name": "Jim Newbery",
     "email": "james@tinnedfruit.com",
-    "url": "https://tinnedfruit.com" 
+    "url": "https://tinnedfruit.com"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "stylelint": "^7.4.2",
+    "stylelint-config-standard": "^13.0.2"
+  }
 }
