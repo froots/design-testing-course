@@ -1,0 +1,15 @@
+{
+  "name": "design-testing-course",
+  "version": "1.0.0",
+  "description": "Example project for the design testing email course on tinnedfruit.com",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": {
+    "name": "Jim Newbery",
+    "email": "james@tinnedfruit.com",
+    "url": "https://tinnedfruit.com" 
+  },
+  "license": "MIT"
+}
