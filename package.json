@@ -4,7 +4,9 @@
   "description": "Example project for the design testing email course on tinnedfruit.com",
   "private": true,
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "stylelint": "stylelint src/css/*.css"
+  },
   "author": {
     "name": "Jim Newbery",
     "email": "james@tinnedfruit.com",
