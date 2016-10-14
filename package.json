@@ -7,7 +7,7 @@
   "scripts": {
     "serve": "http-server src/ -o",
     "stylelint": "stylelint src/css/*.css",
-    "test": "galen check test/feature.gspec --url 'http://localhost:8080/feature.html' --size '1024x768' --htmlreport 'test/report'",
+    "test": "galen test test/suite.test --htmlreport test/report",
     "report": "opener ./test/report/report.html"
   },
   "author": {

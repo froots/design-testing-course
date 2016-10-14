@@ -1,0 +1,11 @@
+Feature on firefox
+    selenium firefox http://localhost:8080/feature.html 1024x768
+        check test/feature.gspec
+
+Feature on chrome
+    selenium chrome http://localhost:8080/feature.html 1024x768
+        check test/feature.gspec
+
+Feature on phantomjs
+    selenium phantomjs http://localhost:8080/feature.html 1024x768
+        check test/feature.gspec
