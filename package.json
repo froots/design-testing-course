@@ -15,6 +15,7 @@
   },
   "license": "MIT",
   "devDependencies": {
+    "galenframework": "^2.3.1",
     "stylelint": "^7.4.2",
     "stylelint-config-standard": "^13.0.2"
   },
