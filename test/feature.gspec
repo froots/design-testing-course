@@ -1,0 +1,6 @@
+@objects
+    feature   .feature
+
+= Feature section =
+    feature:
+        width 100% of viewport/width
